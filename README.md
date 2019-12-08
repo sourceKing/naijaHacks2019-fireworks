@@ -6,6 +6,7 @@
   - Miracle Friday, miraclef60@gmail.com
   - Olayinka Omoniyi, officialonionsman@gmail.com
   - Abass Olaiya Ayotunde
+  - Lambe Boluwatife
 
 # Problem
   The inadequate and costly education sector
