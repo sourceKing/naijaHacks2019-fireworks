@@ -3,10 +3,10 @@
 # Team Fireworks
 
 # Team Members
-  - Miracle Friday, miraclef60@gmail.com
-  - Olayinka Omoniyi, officialonionsman@gmail.com
-  - Abass Olaiya Ayotunde
-  - Lambe Boluwatife
+  - Miracle Friday (Project Manager), miraclef60@gmail.com
+  - Olayinka Omoniyi (Graphics Design), officialonionsman@gmail.com
+  - Abass Olaiya Ayotunde (Backend Developer)
+  - Lambe Boluwatife (Frontend Developer)
 
 # Problem
   The inadequate and costly education sector
