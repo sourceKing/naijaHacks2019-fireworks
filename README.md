@@ -5,8 +5,8 @@
 # Team Members
   - Miracle Friday (Project Manager), miraclef60@gmail.com
   - Olayinka Omoniyi (Graphics Design), officialonionsman@gmail.com
-  - Abass Olaiya Ayotunde (Backend Developer)
-  - Lambe Boluwatife (Frontend Developer)
+  - Abass Olaiya Ayotunde (Backend Developer), ayotundeolaiya@gmail.com
+  - Lambe Boluwatife (Frontend Developer), boluwatifelambe@gmail.com
 
 # Problem
   The inadequate and costly education sector
