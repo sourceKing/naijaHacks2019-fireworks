@@ -21,3 +21,31 @@
   - A good resource for students to find where to learn and who to learn from.
   - Provide revenue for instructors.
   - Reduce rate of unemployment in Nigeria.
+
+
+# Project
+
+## How to run on your local machine
+```
+git clone <repo-url>
+```
+
+## Install dependencies with
+### For yarn
+```
+yarn install
+```
+### For npm
+```
+npm install -s
+```
+
+## Run with
+### For yarn
+```
+yarn run dev  or yarn dev
+```
+### For npm
+```
+npm run dev
+```

@@ -24,17 +24,17 @@ class MyApp extends App {
     const { Component, pageProps } = this.props;
 
     return (
-      <Container>
-        <Layout style={{ minHeight: '100vh' }}>
-          <Sider {...pageProps} />
-          <Layout>
-            <Header />
-            <Content style={{ padding: 20 }}>
+      // <Container>
+      //   <Layout style={{ minHeight: '100vh' }}>
+      //     <Sider {...pageProps} />
+      //     <Layout>
+      //       <Header />
+      //       <Content style={{ padding: 20 }}>
               <Component {...pageProps} />
-            </Content>
-          </Layout>
-        </Layout>
-      </Container>
+      //       </Content>
+      //     </Layout>
+      //   </Layout>
+      // </Container>
     );
   }
 }
